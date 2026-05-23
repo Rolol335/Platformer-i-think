@@ -1,3 +1,3 @@
 # Platformer-i-think
 IDK.WIP
-uuuhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+A generic platformer.
